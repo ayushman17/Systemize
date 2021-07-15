@@ -5,6 +5,8 @@
 
 Project name is a `Systemize` that `Helps` you to `organize your PC by automatically organizes all of your files into the grouping of a similar kind together` such as images, PDFs, presentations, videos, and others, getting rid of clutter. So it’s easy to keep it tidy and find exactly what  you’re looking for.
 
+<a><img src="Systemize.gif"/></a>
+
 ``With Systemize, a cluttered desktop/folders are a Thing of the Past.``
 When you run Systemize, it expands to show the grouped files.
 
